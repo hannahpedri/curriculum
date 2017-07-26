@@ -1,49 +1,31 @@
-# Title Here
+# Porfessionalism & Soft Skills
 
 ### Projected Time
 30-45 minutes
 
 ### Prerequisites
+- Previous Lecture on the Interview Process
 
 
-### Prerequisite
-Here are links to lessons that should be completed before this lesson.
-- [Git version control](version-control/git-version-control/git-version-control.md)
-
-### Motivation
+### Overview
 
 
 ### Objective
-**Students will be able to** do something that we'll list here:
-- Things
-- More things
-- Even more things
-- Even more things
+**Students will be able to** 
+- Demonstrate Professional behavior in the workplace, and become aware of the soft skills needed for a career in the Tech industry. 
 
 ### Specific Things To Teach
-- Things about the things
-- More things about the things
-	- This is a sub-thing about the things
-- Even more things about the things
-- Even more things about the things
+- Verbal/Written Communication
+- Working in Teams
+- Networking
+- Persona
+- Attitude
+- Personal Mindset
 
 ### Materials
 
 - [This website](example.com)
 - [This other website](otherexample.com)
-
-### Mini Lesson
-
-Here's text about introducing something and how it works.
-
-Build on the first information. Have students guess things, do an activity, etc.
-
-Make sure to mention these things:
-- Things
-	- This is a sub-thing
-- More things
-- Even more things
-- Even more things
 
 
 ### Common Mistakes / Misconceptions
@@ -53,21 +35,18 @@ This is something that students might not realize or might assume at first.
 Make sure they avoid this: thing
 
 
-### Guided Practice
 
-Have the students work with you as you do something.
-
-
-### Independent Practice
-
-Class does this thing themselves with specific additional items.
+### Practice
+- Ask question between each of the 'Specific Things to Teach' and call on students to answer the questions out loud
 
 
 ### Challenge
 
-Students can try to do this other thing.
+Group Exercise
+1. Pair up into groups of 2-3
+2. Give each team a fictional workplace conflict/senario
+3. Have team members strategize the most professional way of addressing the fictional situation
+4. Once the team members have discussed, have one member from each team pesent the confilict they were give, and what they believe would be the most professional response. 
+5. Give constructive/helpful feedback
 
 
-### Check for Understanding
-
-Have students summarize to each other, make a cheat sheet, take a quiz, do an assignment, or something else that helps assess their understanding.
